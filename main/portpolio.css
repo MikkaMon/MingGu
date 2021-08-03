@@ -18,7 +18,6 @@ nav li.on a:after {width:100%;}
 
 }
 
-
 .section {background:url(bg.png);}
 .section.on {transition:0.4s;}
 .section .container {display:flex;width:1200px;margin:0 auto;}
@@ -66,7 +65,7 @@ nav li.on a:after {width:100%;}
 .pf01 video {transform:scale(0);}
 .pf01.on video {transform:scale(1);transition:1s 0.5s;}
 
-.pf02 {background:#f2f2f2 url(bg.png)}
+.pf02 {background:#f2f2f2;}
 .pf02 figure {order:2;background-image:url(./m05.png);background-size:100% 100%;padding:90px;}
 
 @media (max-width:768px) {
@@ -82,8 +81,8 @@ nav li.on a:after {width:100%;}
 .pf03 {overflow:hidden;}
 .pf03 i {position:absolute;top:50%;left:50%;transform:translate(-50%,-50%) rotate(45deg);font-size:1000px;cursor:pointer;}
 
-.pf03 i.xi-arrow-left {color:rgb(253, 213, 83);margin-left:-600px;}
-.pf03 i.xi-arrow-right {color:rgb(253, 213, 83);margin-left:600px;}
+.pf03 i.xi-arrow-left {color:#8789ff;margin-left:-600px;}
+.pf03 i.xi-arrow-right {color:#8789ff;margin-left:600px;}
 
 @media (max-width:768px) {
     .pf03 .pt_slider {margin:0 auto;width:auto;z-index:999;}
@@ -113,7 +112,7 @@ nav li.on a:after {width:100%;}
     .info figure img {width:150px;border-radius:50%;margin-right:40px;}
 }
 
-
+.pf04 {background:#f2f2f2;}
 .pf04 img {width:100%;}
 .pf04 p {margin-bottom:30px;}
 .pf04 span {line-height:1.6;}
