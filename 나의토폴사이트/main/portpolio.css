@@ -46,8 +46,8 @@ nav li.on a:after {width:100%;}
 .m01 video {width:1920px;}
 .m01 .txt {position:absolute;top:50%;left:50%;width:1200px;transform:translate(-50%,-50%);}
 
-.m01 .txt h2 {font-size:40px;font-weight:900;margin-bottom:20px;}
-.m01 .txt p {font-size:14px;font-weight:300;}
+.m01 .txt h2 {font-size:40px;font-weight:900;margin-bottom:20px;color:#000;}
+.m01 .txt p {font-size:14px;font-weight:300;color:#000}
 .m01 .txt i {font-size:30px;}
 
 @media (max-width:768px) {
@@ -55,8 +55,8 @@ nav li.on a:after {width:100%;}
     .m01 video {width:1920px;}
     .m01 .txt {position:absolute;top:50%;left:50%;width:100%;transform:translate(-50%,-50%);}
 
-    .m01 .txt h2 {font-size:40px;font-weight:900;margin-bottom:20px;}
-    .m01 .txt p {font-size:14px;font-weight:300;}
+    .m01 .txt h2 {font-size:40px;font-weight:900;margin-bottom:20px;color:#000}
+    .m01 .txt p {font-size:14px;font-weight:300;color:#000}
     .m01 .txt i {font-size:30px;}
 }
 
@@ -82,8 +82,8 @@ nav li.on a:after {width:100%;}
 .pf03 {overflow:hidden;}
 .pf03 i {position:absolute;top:50%;left:50%;transform:translate(-50%,-50%) rotate(45deg);font-size:1000px;cursor:pointer;}
 
-.pf03 i.xi-arrow-left {color:rgb(245, 94, 94);margin-left:-600px;}
-.pf03 i.xi-arrow-right {color:rgb(245, 94, 94);margin-left:600px;}
+.pf03 i.xi-arrow-left {color:rgb(253, 213, 83);margin-left:-600px;}
+.pf03 i.xi-arrow-right {color:rgb(253, 213, 83);margin-left:600px;}
 
 @media (max-width:768px) {
     .pf03 .pt_slider {margin:0 auto;width:auto;z-index:999;}
