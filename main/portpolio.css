@@ -45,8 +45,8 @@ nav li.on a:after {width:100%;}
 .m01 video {width:1920px;}
 .m01 .txt {position:absolute;top:50%;left:50%;width:1200px;transform:translate(-50%,-50%);}
 
-.m01 .txt h2 {font-size:40px;font-weight:900;margin-bottom:20px;color:#000;}
-.m01 .txt p {font-size:14px;font-weight:300;color:#000}
+.m01 .txt h2 {font-size:40px;font-weight:900;margin-bottom:20px;color:#fff;}
+.m01 .txt p {font-size:14px;font-weight:300;color:#000;}
 .m01 .txt i {font-size:30px;}
 
 @media (max-width:768px) {
@@ -67,6 +67,11 @@ nav li.on a:after {width:100%;}
 
 .pf02 {background:#f2f2f2;}
 .pf02 figure {order:2;background-image:url(./m05.png);background-size:100% 100%;padding:90px;}
+
+.pf08 {background:#f2f2f2;}
+.pf06 {background:#f2f2f2;}
+
+
 
 @media (max-width:768px) {
     .pf02 {background:url(./bg.png);}
